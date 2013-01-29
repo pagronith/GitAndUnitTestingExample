@@ -18,6 +18,7 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    NSLog(@"This needs to be saved!");
 }
 
 - (void)didReceiveMemoryWarning
