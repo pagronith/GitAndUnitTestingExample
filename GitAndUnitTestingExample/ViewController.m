@@ -19,6 +19,8 @@
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
     NSLog(@"This needs to be saved!");
+    
+    NSLog(@"This needs to go into a branch");
 }
 
 - (void)didReceiveMemoryWarning
